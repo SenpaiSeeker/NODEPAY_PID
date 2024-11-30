@@ -3,7 +3,7 @@
 <img src="https://github.com/OptimalGrowYT/NODEPAY-HACK-MASTER/blob/main/NODEPAY%20SS.png" alt="توضیح تصویر" width="1280" height="520">
 
 ## USE YOUR OWN PROXIES FOR BETTER RESULT
-FORMAT: socks5://72.49.49.11:31034
+FORMAT: host:port:username:password
 
 [JOIN NODEPAY AIRDROP HERE : ](https://app.nodepay.ai/register?ref=g1MS9G1hzzSKKHl).
 
@@ -44,7 +44,7 @@ dobble click on start.bat file in the folder
 or Run the following command to run the script:
 
 ```bash
-node main.py
+node index.js
 ```
 
 ## FOR ANDROID
@@ -78,7 +78,7 @@ pkg install python-is-python3.10 -y
 pkg install -y rust binutils -y
 pkg install nano -y
 pkg install git -y
-npm install nodejs
+pkg install nodejs
 
 ```
 
@@ -96,7 +96,7 @@ cd NODEPAY-HACK-MASTER-main
 
 nano Token.txt
 
-node main.js
+node index.js
 
 
 
