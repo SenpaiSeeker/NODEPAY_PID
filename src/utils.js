@@ -39,6 +39,7 @@ function displayHeader() {
   console.log(chalk.red('LEARN HACKING HERE ➤ ') + chalk.green('https://www.youtube.com/@optimalgrowYT/videos'));
   console.log(chalk.red('DOWNLOAD MORE HACKS ➤ ') + chalk.green('https://github.com/OptimalGrowYT'));
   console.log(chalk.yellow('PASTE YOUR [TOKEN] INTO TOKEN.TXT FILE AND PRESS START '));
+  console.log(chalk.white('BUY NODEPAY REFERAL FROM HERE ➤ ') + chalk.green('https://t.me/doctor_amk'));
   console.log(chalk.green('                  [𝍖𝍖𝍖 NODEPAY HACK MASTER 𝍖𝍖𝍖]                  '));
   console.log();  // Add an empty line for spacing
 }
