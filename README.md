@@ -1,6 +1,6 @@
 # NODEPAY-HACK-MASTER
 
-<img src="https://github.com/OptimalGrowYT/NODEPAY-HACK-MASTER/blob/main/NODEPAY%20SS.png" alt="توضیح تصویر" width="1280" height="520">
+<img src="https://github.com/OptimalGrowYT/NOTPIXEL-ADS_WATCHER/blob/main/PNG" alt="توضیح تصویر" width="1280" height="520">
 
 ## USE YOUR OWN PROXIES FOR BETTER RESULT
 FORMAT: host:port:username:password
